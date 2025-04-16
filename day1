@@ -257,6 +257,14 @@ output text/plain --- vars.originalPayload
   </xs:element>
 </xs:schema>
 
+<CancellationNotification>
+	<PNR>PNR123</PNR>
+	<PassengerLastName>Mule</PassengerLastName>
+    <PassengerFirstName1>A</PassengerFirstName1>
+    <PassengerFirstName2>A</PassengerFirstName2>
+    <PassengerFirstName3>A</PassengerFirstName3>
+    <PassengerFirstName4>A</PassengerFirstName4>
+</CancellationNotification>
   
 Day 4
 =====
